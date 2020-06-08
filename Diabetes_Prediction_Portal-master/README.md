@@ -3,20 +3,3 @@ Diabetes Prediction is my weekend practice project. In this I used KNN Neighbors
 
 The model is already trained using 768 different types of data.
 
-# Requirements
-pycharm,
-python 2.7,
-sklearn,
-numpy,
-flask,
-json,
-
-Just only Run app.py and open http://127.0.0.1:5000 in your web browser
-
-# ScreenShots of Diabetes Prediction Portal
-
-
-![Alt text](https://github.com/zikry009/Diabetes_Prediction/blob/master/img/screenshot-127.0.0.1-5000-2019.03.09-16-56-50.png)
-# Predication
-
-![Alt text](https://github.com/zikry009/Diabetes_Prediction/blob/master/img/screenshot-127.0.0.1-5000-2019.03.09-16-57-30.png)
